@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_DWAlumnoCalificaciones", "ETL_DWAlumnoCalificaciones\ETL_DWAlumnoCalificaciones.dtproj", "{D00206F5-9E52-4F1F-A9F7-4993E32006C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00206F5-9E52-4F1F-A9F7-4993E32006C9}.Development|Default.ActiveCfg = Development
+		{D00206F5-9E52-4F1F-A9F7-4993E32006C9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {172DDE0F-DC13-4DB0-9F7F-3EB39DB005BA}
+	EndGlobalSection
+EndGlobal
